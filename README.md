@@ -1,5 +1,1 @@
--Hi İ'm emreakar07.
--I am from Turkiye and currently lives in Istanbul.
--I study management information systems at colleague 
--I know python as a junior programmer.
--I currently working on syber security.
+
